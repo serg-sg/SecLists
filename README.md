@@ -8,7 +8,7 @@
   <em>Warp, built for coding with multiple AI agents.</em>
 </p>
 
-![seclists.png](https://danielmiessler.com/images/seclists-long.png "seclists.png")
+# SecLists
 
 ### About SecLists
 
