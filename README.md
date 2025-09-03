@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="http://go.warp.dev/seclists" target="_blank">
+    <img src="https://raw.githubusercontent.com/warpdotdev/brand-assets/main/Github/Sponsor/warp-banner-light.png" alt="Warp - built for coding with multiple AI agents" width="600"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>Warp, built for coding with multiple AI agents.</em>
+</p>
+
 ![seclists.png](https://danielmiessler.com/images/seclists-long.png "seclists.png")
 
 ### About SecLists
